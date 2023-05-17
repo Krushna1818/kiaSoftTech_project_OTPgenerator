@@ -18,7 +18,8 @@ public class Otp_Generator
 			
 		}
 		return new String(otp);	
-	
+		
+		
 	}
 	
 	public static void main(String[] args) throws InterruptedException //Start from this main method
